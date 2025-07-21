@@ -1,2 +1,2 @@
 hola prueba
-modificando desdes el github hacia el respositorio local
+modificando desde el github hacia el repositorio local
